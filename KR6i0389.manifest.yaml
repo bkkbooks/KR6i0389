@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6i0389/v1
+canonical_location: https://kanripo.org/bkk/KR6i0389/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說造塔功德經
+  identifiers:
+    alt_id:
+    - T16n0699
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0699.xml
+    old_id: T16n0699
+  edition:
+    short: bkk
+editions:
+- short: 宮
+  label: 宮
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0389_000.yaml, hash: 'sha256:17aaedb9597e11ce549322a8c60b53476872a564624e85c364cb6c192f7455ba'}
+  - {seq: 1, filename: KR6i0389_001.yaml, hash: 'sha256:da72bde8a03778a20fe0e71e0b2b3bfa9499573e4adcd79c06ddba4cbf79c880'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0389_000.markers.yaml, hash: 'sha256:a31db337607fbed9430a57fb11f232bfb359da60a0eb3011905106d191481d96'}
+  - {seq: 1, role: markers, filename: assets/KR6i0389_001.markers.yaml, hash: 'sha256:8a66b81ce47066f45c093fa9a67fa00d94374c55f92262a948c31bc71bb2e5a2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0389_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 造塔功德經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0389_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 531
+  label: 佛說造塔功德經
+  type: juan
+  level: 1
+hash: sha256:584dc5d61ba23d94cd2848582ed6c9421f67c521b886a75101c79afc7a4dcd1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

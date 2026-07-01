@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6i0389/t/v1/juan/0
+seq: 0
+front:
+  text: 造塔功德經序夫塔者梵之稱譯者謂之墳或方或圓厥製多緒乍琢乍璞文質異宜並以封樹遺靈扃鈐法藏冀表河砂之德庶酬塵劫之勞豈伊弓劍衣冠言申永慕禹陵孔壁用顯緘藏而已哉將有量等大千覆三界而高梵世取均菴果偶棗葉而譬針鋒洪纖兩途福應無二大小千計淨心終一何只黃金白玉架逈爭暉火齊水精浮空競彩夕振祥飈之響入鏤鐸以流清晨霏仙露之甘上雕盤以凝泫至乃位隆三果勳重四禪高升有頂之宮行屆無災之地斯教之弘旨也此經以永隆元年冬十一月十五日請天竺法師地婆訶羅與西明寺沙門圓測等五人於弘福道場奉詔宣譯至其年十二月八日終其文義庶斯法寶周給大千俾彼慧燈照融三界云爾
+  hash: sha256:ccb0520fd38968969c7ba3f2cedfd675413c96110597d21d8d9a04d845bed83a
+  markers:
+  - {type: 序, offset: 0, content: 造塔功德經序, id: KR6i0389_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說造塔功德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0699.xml
+    old_id: T16n0699
+hash: sha256:17aaedb9597e11ce549322a8c60b53476872a564624e85c364cb6c192f7455ba
