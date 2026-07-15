@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0389/v1
 canonical_location: https://kanripo.org/bkk/KR6i0389/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說造塔功德經
   identifiers:
@@ -30,11 +30,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0389_000.yaml, hash: 'sha256:c18023ce36072e8973f41e18b2c98c6ab4dfa0f113e24af95a63a7fa9654824d'}
-  - {seq: 1, filename: KR6i0389_001.yaml, hash: 'sha256:555094ec2f75a041296b513a7e9efbff0e8b3c63f9fee028df59bcbb69086b4d'}
+  - {seq: 0, filename: KR6i0389_000.yaml, hash: 'sha256:17aaedb9597e11ce549322a8c60b53476872a564624e85c364cb6c192f7455ba'}
+  - {seq: 1, filename: KR6i0389_001.yaml, hash: 'sha256:6c5d41fb37d08e22ca5614fef37969d0b0b105596bcd5cfc59b133aa481bfa2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0389_000.markers.yaml, hash: 'sha256:c31ba03f647b2f1c63d957d10aa10c86b230eef8685039082db60a577dfe106f'}
-  - {seq: 1, role: markers, filename: assets/KR6i0389_001.markers.yaml, hash: 'sha256:b792e90885ff6ea88c774aa5321219b5d8c2ad8dd220f81c92eb246e0da3b2e6'}
+  - {seq: 0, role: markers, filename: assets/KR6i0389_000.markers.yaml, hash: 'sha256:2a55ad2e81d7181b09ceabf45417b81f18ee2319429b189243ef8d5fdc8337bf'}
+  - {seq: 1, role: markers, filename: assets/KR6i0389_001.markers.yaml, hash: 'sha256:51515ddd0b4660c89591e15480ba46e3cdbbfb103b23d8da1c038f0a34d981ea'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,4 +56,7 @@ table_of_contents:
   label: 佛說造塔功德經
   type: juan
   level: 1
-hash: sha256:b639448a626ea216ebf2f1e06e1d78350d3a000436ddea073f2af8dbb1a14afc
+hash: sha256:fb1c4684b0e6cc1ca5b50770a43be08cf7afdbc1e89729231019be5aa3eb06aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
