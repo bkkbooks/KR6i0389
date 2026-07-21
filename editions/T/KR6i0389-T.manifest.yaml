@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0389_000-T.yaml, hash: 'sha256:c18023ce36072e8973f41e18b2c98c6ab4dfa0f113e24af95a63a7fa9654824d'}
+  - {seq: 0, filename: KR6i0389_000-T.yaml, hash: 'sha256:47344f9f309fe0b339fc7b1a52d4d1f0acf07e3fd7da6a0cff36ce8af72b0083'}
   - {seq: 1, filename: KR6i0389_001-T.yaml, hash: 'sha256:555094ec2f75a041296b513a7e9efbff0e8b3c63f9fee028df59bcbb69086b4d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0389_000-T.markers.yaml, hash: 'sha256:835be038b0c15dbccda28cb11adfa2127a4fbe468c5c33a5ac5b2b371cf1fd3b'}
+  - {seq: 0, role: markers, filename: assets/KR6i0389_000-T.markers.yaml, hash: 'sha256:9e08921cb2ef80c4ad1c7744eedfcedc7e3e5bb9160c2bc6b5ed61f012a995a8'}
   - {seq: 1, role: markers, filename: assets/KR6i0389_001-T.markers.yaml, hash: 'sha256:f7d8ceb538241ec7381b4b0ec8cb12e1c9d605fc3fd887986cd10cce6214a227'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0389_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 造塔功德經序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 佛說造塔功德經
   type: juan
   level: 1
-hash: sha256:0f8faf37aeb04ff3f7f732aab1d5a331e68ffbfad8bce9ab1e523d99be2f3625
+hash: sha256:92444e4f56caeb5ca0a9110d577cd44608c900cff675639e1d7db64ce0651716

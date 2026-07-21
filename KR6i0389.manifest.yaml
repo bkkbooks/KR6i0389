@@ -30,17 +30,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0389_000.yaml, hash: 'sha256:17aaedb9597e11ce549322a8c60b53476872a564624e85c364cb6c192f7455ba'}
+  - {seq: 0, filename: KR6i0389_000.yaml, hash: 'sha256:1a580ba1a4f0854fe22ad623528187c1369dc29b098470604e0fcfd771c0a2eb'}
   - {seq: 1, filename: KR6i0389_001.yaml, hash: 'sha256:6c5d41fb37d08e22ca5614fef37969d0b0b105596bcd5cfc59b133aa481bfa2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0389_000.markers.yaml, hash: 'sha256:2a55ad2e81d7181b09ceabf45417b81f18ee2319429b189243ef8d5fdc8337bf'}
+  - {seq: 0, role: markers, filename: assets/KR6i0389_000.markers.yaml, hash: 'sha256:cd1a7524dd6fe1f07494b5c485e1bd052759697b96ce902a2103cbf8dcd46d80'}
   - {seq: 1, role: markers, filename: assets/KR6i0389_001.markers.yaml, hash: 'sha256:51515ddd0b4660c89591e15480ba46e3cdbbfb103b23d8da1c038f0a34d981ea'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0389_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 造塔功德經序
@@ -56,7 +56,7 @@ table_of_contents:
   label: 佛說造塔功德經
   type: juan
   level: 1
-hash: sha256:fb1c4684b0e6cc1ca5b50770a43be08cf7afdbc1e89729231019be5aa3eb06aa
+hash: sha256:e90fbaa27b9aaf900d2807ee02f2d7285d7cd059d88b5866e53b13218e4a3f64
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
